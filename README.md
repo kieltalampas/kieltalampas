@@ -41,5 +41,4 @@ CS student at Mapua Malayan Colleges Laguna, specializing in Data Science and An
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Azure studying](https://img.shields.io/badge/Currently%20Studying-DP--203%20Azure%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
