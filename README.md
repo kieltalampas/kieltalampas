@@ -4,7 +4,7 @@ CS student at Mapua Malayan Colleges Laguna, specializing in Data Science and An
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
