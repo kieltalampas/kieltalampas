@@ -1,4 +1,4 @@
-# Hi, I'm Kiel 👋
+# Hi, I'm Kiel 
 
 CS student at Mapua Malayan Colleges Laguna, specializing in Data Science and Analytics. I build end-to-end data engineering pipelines and am currently deepening my skills in Azure cloud technologies.
 
