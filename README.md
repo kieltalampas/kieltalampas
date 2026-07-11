@@ -33,5 +33,4 @@ Interactive analytics dashboard analyzing 41,697 NYC Airbnb listings with drill-
 <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" height="48" alt="Spark" />
 <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks" />
 <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48" height="48" alt="Snowflake" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="48" height="48" alt="Power BI" />
 </p>
