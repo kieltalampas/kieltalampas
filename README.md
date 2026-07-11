@@ -27,4 +27,15 @@ Interactive analytics dashboard analyzing 41,697 NYC Airbnb listings with drill-
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,mysql,spark,databricks,aws,azure,snowflake,powerbi,git,github)
+<p>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="SQL" />
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40" height="40" alt="Spark" />
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" height="40" alt="Databricks" />
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS" />
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="40" height="40" alt="Azure" />
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="40" height="40" alt="Snowflake" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40" alt="Power BI" />
+<img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
+<img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub" />
+</p>
